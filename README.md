@@ -1,5 +1,5 @@
 # SMBtheme
-A Super Mario Bros theme for BetterDiscord!
+A Super Mario Bros theme for BetterDiscord! Here's an [example](https://github.com/xVapure/smbtheme/blob/main/example.png)
 
 **HOW TO INSTALL?**
 
