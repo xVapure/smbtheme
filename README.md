@@ -3,7 +3,7 @@ A Super Mario Bros theme for BetterDiscord! Here's an [example](https://github.c
 
 **HOW TO INSTALL?**
 
-Well, simple, download the file `Super Mario Bros Background.theme.css` and drop it into the themes folder, isn't that too easy?
+Well, simple, download [this file](https://github.com/xVapure/smbtheme/blob/main/Super%20Mario%20Bros%20Background.theme.css) and drop it into the themes folder, isn't that too easy? Note: You don't need to drag the `example.png` and the `README.md` file into the themes folder!
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
